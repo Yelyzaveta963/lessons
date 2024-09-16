@@ -1,0 +1,47 @@
+/* Скидання стилів */
+/* коментар - Ctrl + / */
+@import url("reset.css");
+
+* {
+   color: red;
+}
+p {
+   color: blue;
+}
+h1 {
+   color: green;
+}
+
+.title {
+   color: chocolate;
+}
+
+.text {
+   color: darkmagenta;
+}
+
+#kuxna { 
+   color: brown;
+}
+[clas*="te"]{ 
+   color: darkgreen;
+}
+.green {
+   color: darkgreen;
+}
+p.text-2 {
+   color: deeppink;
+}
+.article h2 {
+   color: goldenrod;
+}
+.article p {
+   color: forestgreen;
+}
+.article > p {
+   color: coral;
+}
+.ol-list .namber {
+   color: green;
+}
+
